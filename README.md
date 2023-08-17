@@ -1,15 +1,24 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="es">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+</head>
+
+<font size="4"><b><i>Melanie-I&nbsp;</i></b></font>
+      <p>By Alejandro Alonso Puig<br>
+      March 2004<br>
+ 
+<hr>
 <i>Melanie-I was developed by Alejandro Alonso on March 2004</i><br />
 <br />
 <div style="text-align: justify;">
 Melanie is an hexapod robot of 3 degrees of freedom by leg, that by the novel design of legs it has, can transport several kilograms on its body without electrical power overload.</div>
 <br />
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-eZRr-Ntbdxw/UuOVIK8IDpI/AAAAAAAAJYs/BvNT9_0rnFI/s1600/melanie.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-eZRr-Ntbdxw/UuOVIK8IDpI/AAAAAAAAJYs/BvNT9_0rnFI/s1600/melanie.jpg" height="355" width="400" /></a></div>
-<br />
+<p align="center"><img border="0" src="http://2.bp.blogspot.com/-eZRr-Ntbdxw/UuOVIK8IDpI/AAAAAAAAJYs/BvNT9_0rnFI/s1600/melanie.jpg" width="600" ></p>
 <div style="text-align: justify;">
-The version I that is in this technical report refers the simplest version of the implementation of the robot, in which the robot is connected to an external PC by serial port (RS232C) for its control by a Visual C++ application.</div>
-<div class="separator" style="clear: both; text-align: center;">
-<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://ytimg.googleusercontent.com/vi/Z-d1kQu70TE/0.jpg" height="266" width="320"><param name="movie" value="https://www.youtube.com/v/Z-d1kQu70TE?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="https://www.youtube.com/v/Z-d1kQu70TE?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+The version I that is in this technical report refers the simplest version of the implementation of the robot, in which the robot is connected to an external PC by serial port (RS232C) for its control by a Visual C++ application. See Video with <a href="https://youtu.be/Z-d1kQu70TE">Melanie lifting walking with 1Kg payload</a></div>
 <br />
 There is a version II with superior capacities. Complete information could be obtained here: <b><u><a href="http://automacomp.blogspot.com.es/2004/04/melanie-ii-robust-hexapod-robot-of-3.html">Melanie-II</a></u></b><br />
 <br />
@@ -31,3 +40,16 @@ Some basic characteristics that define Melanie v1.0 are the following:<br />
 </b><br />
  In this work there will be mention to all the mechanical,electronic and programming aspects, as well as conclusions of the experience.</li>
 </ul>
+<br>
+More information: <br>
+<ul>
+  <li><p align="justify"><a href="Documentation\melanie-I_doc_en.pdf">Technical documentation</a></li>
+  <li><p align="justify"><a href="Melanie-I_Program">Program</a></li>
+  <li><p align="justify"><a href="Media">Pictures</a></li>
+  <li><p align="justify"><a href="https://github.com/aalonsopuig/Melanie-II_Hexapod_Robot.git">Repository of Melanie-II</a></li>
+  <li><p align="justify"><a href="https://github.com/aalonsopuig/Melanie-III_Hexapod_Robot.git">Repository of Melanie-III</a></li>
+</ul>
+
+</body>
+
+</html>
