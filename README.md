@@ -18,7 +18,7 @@ Melanie is an hexapod robot of 3 degrees of freedom by leg, that by the novel de
 <br />
 <p align="center"><img border="0" src="http://2.bp.blogspot.com/-eZRr-Ntbdxw/UuOVIK8IDpI/AAAAAAAAJYs/BvNT9_0rnFI/s1600/melanie.jpg" width="600" ></p>
 <div style="text-align: justify;">
-The version I that is in this technical report refers the simplest version of the implementation of the robot, in which the robot is connected to an external PC by serial port (RS232C) for its control by a Visual C++ application. See Video with <a href="https://youtu.be/Z-d1kQu70TE">Melanie lifting walking with 1Kg payload</a></div>
+The version I that is in this technical report refers the simplest version of the implementation of the robot, in which the robot is connected to an external PC by serial port (RS232C) for its control by a Visual C++ application. See Video with <a href="https://youtu.be/Z-d1kQu70TE">Melanie lifting and walking with 1Kg payload</a></div>
 <br />
 There is a version II with superior capacities. Complete information could be obtained here: <b><u><a href="http://automacomp.blogspot.com.es/2004/04/melanie-ii-robust-hexapod-robot-of-3.html">Melanie-II</a></u></b><br />
 <br />
@@ -39,8 +39,8 @@ Some basic characteristics that define Melanie v1.0 are the following:<br />
 <li>Control program in PC developed in Visual C++ 6.0</li>
 </b><br />
 </ul>
-In this work there will be mention to all the mechanical,electronic and programming aspects, as well as conclusions of the experience.</li>
-
+In this work there will be mention to all the mechanical,electronic and programming aspects, as well as conclusions of the experience.
+<br>
 <br>
 More information: <br>
 <ul>
