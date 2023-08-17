@@ -38,8 +38,9 @@ Some basic characteristics that define Melanie v1.0 are the following:<br />
 <li>Battery of 9v NiMH for the control electronics</li>
 <li>Control program in PC developed in Visual C++ 6.0</li>
 </b><br />
- In this work there will be mention to all the mechanical,electronic and programming aspects, as well as conclusions of the experience.</li>
 </ul>
+In this work there will be mention to all the mechanical,electronic and programming aspects, as well as conclusions of the experience.</li>
+
 <br>
 More information: <br>
 <ul>
